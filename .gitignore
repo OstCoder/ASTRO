@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS files
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/
+.idea/
